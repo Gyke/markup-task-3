@@ -1,0 +1,72 @@
+table {
+    font-size: 80%;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+
+.first {
+    text-align: center;
+    border-right: 1px solid;
+    font-weight: 600;
+}
+
+.second {
+    font-size: 40%;
+}
+
+.third {
+    border-left: 1px solid;
+    font-weight: 600;
+}
+
+.underlined {
+    border-bottom: 1px solid;
+}
+
+.main {
+    margin: 0 auto;
+    width: 1100px;
+    background-color: antiquewhite;
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.label {
+    color: #fff;
+    background-color: navy;
+    width: 30%;
+}
+
+.price {
+    width: 30%;
+}
+
+.main-header {
+    color: red;
+    font-weight: 900;
+    font-size: 25pt;
+    text-align: right;
+}
+
+.img-first {
+    float: left;
+}
+
+.img-second {
+    float: left;
+}
+
+.proletarii {
+    clear: both;
+    float: right;
+}
+
+.pionerskaya-pravda {
+    float: unset;
+    size: 50px;
+}
+/* 
+.content {
+    float: left;
+    clear: both;
+} */
